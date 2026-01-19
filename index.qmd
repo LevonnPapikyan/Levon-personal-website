@@ -1,7 +1,16 @@
 ---
-title: "Levon-personal-website"
+title: "Levon Papikyan"
+# image: profile.jpg  # Make sure you have a photo named profile.jpg in the folder
+about:
+  template: jolla   # Options: jolla, trestles, solana, marquee
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: envelope
+      text: Email
+      href: mailto:your-email@yale.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
