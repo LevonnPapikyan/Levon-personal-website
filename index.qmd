@@ -1,8 +1,7 @@
 ---
 title: "Levon Papikyan"
-# image: profile.jpg  # Make sure you have a photo named profile.jpg in the folder
 about:
-  template: jolla   # Options: jolla, trestles, solana, marquee
+  template: jolla   # This centers your name/links and keeps the focus on the image below
   links:
     - icon: linkedin
       text: LinkedIn
@@ -12,5 +11,9 @@ about:
       href: https://github.com
     - icon: envelope
       text: Email
-      href: mailto:your-email@yale.edu
+      href: mailto:levon.papikyan@yale.edu
 ---
+
+::: {#vixualization-container style="max-width: 800px; margin: 0 auto;"}
+![](NBA_Schedule_Heatmap.jpg){fig-align="center" width="100%"}
+:::
